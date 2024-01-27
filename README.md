@@ -1,6 +1,6 @@
 # SocialDev
 
-Aprendi a fazer essa página com o professor Myke Brito da Rocketseat, usamos as linguagens HTML, CSS E JavaScript, e também Toggle dinâmico para mudar o fundo, curso gratuito Discover.
+Aprendi a fazer essa página com o professor Mayk Brito da Rocketseat, usamos as linguagens HTML, CSS E JavaScript, e também Toggle dinâmico para mudar o fundo, curso gratuito Discover.
 
 Estou super feliz e grata pelo resultado 💕
 
