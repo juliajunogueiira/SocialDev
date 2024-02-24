@@ -7,7 +7,7 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     img.setAttribute(
       "src",
-      "./assets/profile-3f0f3cd5-b275-4428-882f-070d3292a4e3-1664646248146 1.png"
+      "./assets/IMG_20240123_180631_313.jpg"
     )
     img.setAttribute(
       "alt",
